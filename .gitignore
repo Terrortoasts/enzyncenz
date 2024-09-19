@@ -39,3 +39,5 @@ Thumbs.db
 # Data and Result files #
 #########################
 data/
+venv/
+.ipynb_checkpoints/
